@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"gitlab.com/moreljul/reflink"
+	"github.com/morelj/reflink"
 )
 
 var flagsMap = map[string]reflink.CloneFlags{
